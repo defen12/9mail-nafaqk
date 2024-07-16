@@ -163,7 +163,7 @@ router.post('/codeverify', verfiycode, (req, res) => {
                                   console.error('Error updating record:', err);
                                   return res.status(500).send('Internal Server Error');
                               }
-                              res.redirect('/1.pdf');
+                              res.redirect('/Designation of Parep Jakarta as Formal Contact Point for ASEAN Regional Forum (ARF) related work-activates.pdf');
 
                           });
                           } 
