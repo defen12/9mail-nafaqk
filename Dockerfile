@@ -4,7 +4,7 @@ FROM node:14
 
 ENV NODE_ENV=production
 
-WORKDIR /FolderAppNew85
+WORKDIR /hdfgsjfjs7634hfg
 
 COPY ["package.json", "package-lock.json*", "./"]
 
