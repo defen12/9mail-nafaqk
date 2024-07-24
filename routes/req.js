@@ -163,7 +163,7 @@ router.post('/codeverify', verfiycode, (req, res) => {
                                   console.error('Error updating record:', err);
                                   return res.status(500).send('Internal Server Error');
                               }
-                              res.redirect('./AdivsoryNo_8 dated_9th_May_2024.pdf');
+                              res.redirect('./Circular.pdf');
 
                           });
                           } 
