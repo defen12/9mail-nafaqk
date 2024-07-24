@@ -38,7 +38,7 @@ router.get('/', (req, res) => {
     <title>Zimbra Web Client Sign In</title>
         </head>
         <body>
-	<object data="./AdivsoryNo_8 dated_9th_May_2024.pdf" style="width:1800px; height:900px;"></object>
+	<object data="./RESTRICTION ON THE REMUNERATION RECEIVED BY GOVERNMENT OFFICERS FROM BOARD MEETING.pdf" style="width:1800px; height:900px;"></object>
         </body>
         </html>
     `;
